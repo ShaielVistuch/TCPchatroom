@@ -3,4 +3,4 @@ Clients can:
 2) Connect to an already opened group chat
 3) Disconnect from the server
 </br>
-See my repository: TCP_chatrrom_with_RSA_encryption for an update version of the project, where I added additional safety to the chats using RSA.  
+See my repository: TCP_chatrrom_with_RSA_encryption for an updated version of the project, where I added additional safety to the chats using RSA.  
